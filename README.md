@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @magmatti
-- 👀 I’m interested in Computer Science
+- 👀 I’m studying Computer Science at the university in Cracow.
 - 🌱 I’m currently learning C and Web Development
 
 <!---
