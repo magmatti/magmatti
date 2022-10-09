@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @magmatti
-- 👀 I’m studying Computer Science at the university in Cracow.
+- 👀 I’m studying Computer Science at Pedagogical University of Cracow.
 - 🌱 I’m currently learning C++, Python and Web Development
 
 <!---
