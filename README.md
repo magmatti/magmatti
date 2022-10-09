@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magmatti
 - 👀 I’m studying Computer Science at the university in Cracow.
-- 🌱 I’m currently learning C and Web Development
+- 🌱 I’m currently learning C++, Python and Web Development
 
 <!---
 magmatti/magmatti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
