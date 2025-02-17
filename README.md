@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @magmatt
-- 🎓 I’m senior year student of Computer Science at UKEN University in Cracow (Bachelor's degree in February 2025).
+- 🎓 Bachelor of Engineering - BE, Computer Science at UKEN University in Cracow, Poland.
 - 💻 I’m currently working with mobile and web development.
 - 📱 Contact me via magmatt.dev@gmail.com
 
