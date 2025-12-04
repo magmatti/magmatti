@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @magmatt
 - 🎓 Master's degree, Computer Science at Cracow University of Technology, Poland (until June 2026).
 - 🎓 Bachelor of Engineering - BE, Computer Science at UKEN University in Cracow, Poland.
-- 💻 I’m currently working with mobile and web development.
+- 💻 I’m currently working with mobile/web development and AI.
 - 📱 Contact me via magmatt.dev@gmail.com
 
 <!---
